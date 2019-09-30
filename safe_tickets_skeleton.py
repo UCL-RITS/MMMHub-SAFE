@@ -266,7 +266,7 @@ def main(argv):
     try:
         # This file contains all necessary configuration for SQL connector and HTTPS requests
         config = configparser.ConfigParser()
-        config.read_file(open(os.path.expanduser('~/.thomas.cnf')))
+        config.read_file(open(os.path.expanduser('~/.safe.cnf')))
     #except FileNotFoundError as err:
     except OSError as err:
         print(err)
@@ -289,7 +289,7 @@ def main(argv):
     # These options require a database connection
     if args.refresh or args.close is not None or args.reject is not None:
         try:
-            conn = mysql.connector.connect(option_files=os.path.expanduser('~/.thomas.cnf'), option_groups='thomas_update', database='thomas')
+            conn = mysql.connector.connect(option_files=os.path.expanduser('~/.safe.cnf'), option_groups='local_database', database='tier2')
             cursor = conn.cursor(dictionary=True)
 
             # Refresh the database tickets
