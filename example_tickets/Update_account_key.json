@@ -1,0 +1,54 @@
+{
+"SysAdmin": {
+ "Id": "318076",
+ "Type": "Update account",
+ "Status": "Pending",
+ "StartDate": "2019-3-14 10:7:22",
+ "EndDate": "2019-5-28 10:40:0",
+ "Machine": "Thomas",
+ "Handler": {
+  "Name": "Machine-admin",
+  "Email": "machine.admin@example.com"
+ },
+ "Approver": {
+  "Name": {
+   "Title": "Prof",
+   "Firstname": "Info",
+   "Lastname": "Changer"
+  },
+  "Email": "info.changer@example.com",
+  "WebName": "d9028429@example.com",
+  "PublicKey": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC++VxioiYY5zfL9bXfYKHUG/sqEJKlFpSc8sFNKdjZOG8zM4veIvsAOdIKJlo/eC1s2oqsGRLElRyOOxgJTUfuR4gCBCwkrMgV6ivhWoey8LDgTMifO/CASuFLCCZpkjXOYhPMTsZvSBQSYNXdCuJhLyGkwewFBjfH9HajuzW0CxTERQbTZvw7j2rQv1U20/mX2A5Js8QZjVQGkjK1IxbCICg9rzR18ZnEkBEYPqH38yztAhbNWBBzPXfaJCVp+0GiDZnaQeRdovbfnjY1G57Z/Uj1rbj1f3Sj97x/wbdStolv+lEx9+e0KjLZPhg0o0UPuCVQxfsFKtQaQuTaaeYT",
+  "NormalisedPublicKey": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC++VxioiYY5zfL9bXfYKHUG/sqEJKlFpSc8sFNKdjZOG8zM4veIvsAOdIKJlo/eC1s2oqsGRLElRyOOxgJTUfuR4gCBCwkrMgV6ivhWoey8LDgTMifO/CASuFLCCZpkjXOYhPMTsZvSBQSYNXdCuJhLyGkwewFBjfH9HajuzW0CxTERQbTZvw7j2rQv1U20/mX2A5Js8QZjVQGkjK1IxbCICg9rzR18ZnEkBEYPqH38yztAhbNWBBzPXfaJCVp+0GiDZnaQeRdovbfnjY1G57Z/Uj1rbj1f3Sj97x/wbdStolv+lEx9+e0KjLZPhg0o0UPuCVQxfsFKtQaQuTaaeYT"
+ },
+ "Account": {
+  "Name": "mmm0002",
+  "GID": "0",
+  "Person": {
+   "Name": {
+    "Title": "Prof",
+    "Firstname": "Info",
+    "Lastname": "Changer"
+   },
+   "Email": "info.changer@example.com",
+   "WebName": "d9028429@example.com",
+   "PublicKey": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC++VxioiYY5zfL9bXfYKHUG/sqEJKlFpSc8sFNKdjZOG8zM4veIvsAOdIKJlo/eC1s2oqsGRLElRyOOxgJTUfuR4gCBCwkrMgV6ivhWoey8LDgTMifO/CASuFLCCZpkjXOYhPMTsZvSBQSYNXdCuJhLyGkwewFBjfH9HajuzW0CxTERQbTZvw7j2rQv1U20/mX2A5Js8QZjVQGkjK1IxbCICg9rzR18ZnEkBEYPqH38yztAhbNWBBzPXfaJCVp+0GiDZnaQeRdovbfnjY1G57Z/Uj1rbj1f3Sj97x/wbdStolv+lEx9+e0KjLZPhg0o0UPuCVQxfsFKtQaQuTaaeYT",
+   "NormalisedPublicKey": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC++VxioiYY5zfL9bXfYKHUG/sqEJKlFpSc8sFNKdjZOG8zM4veIvsAOdIKJlo/eC1s2oqsGRLElRyOOxgJTUfuR4gCBCwkrMgV6ivhWoey8LDgTMifO/CASuFLCCZpkjXOYhPMTsZvSBQSYNXdCuJhLyGkwewFBjfH9HajuzW0CxTERQbTZvw7j2rQv1U20/mX2A5Js8QZjVQGkjK1IxbCICg9rzR18ZnEkBEYPqH38yztAhbNWBBzPXfaJCVp+0GiDZnaQeRdovbfnjY1G57Z/Uj1rbj1f3Sj97x/wbdStolv+lEx9+e0KjLZPhg0o0UPuCVQxfsFKtQaQuTaaeYT"
+  },
+  "Machines": "Thomas",
+  "UID": "-1"
+ },
+ "Person": {
+  "Name": {
+   "Title": "Prof",
+   "Firstname": "Info",
+   "Lastname": "Changer"
+  },
+  "Email": "info.changer@example.com",
+  "WebName": "d9028429@example.com",
+  "PublicKey": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC++VxioiYY5zfL9bXfYKHUG/sqEJKlFpSc8sFNKdjZOG8zM4veIvsAOdIKJlo/eC1s2oqsGRLElRyOOxgJTUfuR4gCBCwkrMgV6ivhWoey8LDgTMifO/CASuFLCCZpkjXOYhPMTsZvSBQSYNXdCuJhLyGkwewFBjfH9HajuzW0CxTERQbTZvw7j2rQv1U20/mX2A5Js8QZjVQGkjK1IxbCICg9rzR18ZnEkBEYPqH38yztAhbNWBBzPXfaJCVp+0GiDZnaQeRdovbfnjY1G57Z/Uj1rbj1f3Sj97x/wbdStolv+lEx9+e0KjLZPhg0o0UPuCVQxfsFKtQaQuTaaeYT",
+  "NormalisedPublicKey": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC++VxioiYY5zfL9bXfYKHUG/sqEJKlFpSc8sFNKdjZOG8zM4veIvsAOdIKJlo/eC1s2oqsGRLElRyOOxgJTUfuR4gCBCwkrMgV6ivhWoey8LDgTMifO/CASuFLCCZpkjXOYhPMTsZvSBQSYNXdCuJhLyGkwewFBjfH9HajuzW0CxTERQbTZvw7j2rQv1U20/mX2A5Js8QZjVQGkjK1IxbCICg9rzR18ZnEkBEYPqH38yztAhbNWBBzPXfaJCVp+0GiDZnaQeRdovbfnjY1G57Z/Uj1rbj1f3Sj97x/wbdStolv+lEx9+e0KjLZPhg0o0UPuCVQxfsFKtQaQuTaaeYT"
+ },
+ "ExtraText": "public key added\n"
+}
+}
